@@ -1,4 +1,4 @@
-Welcome to HumHub 
+Welcomee to HumHub 
 =================
 
 HumHub is a flexible open source social network application written in PHP.
